@@ -22,4 +22,4 @@ In Watson Discovery I have used the ecobee3_userguide.
 
 Node-Red Dashboard link after deploying : https://node-red-bdlzo.eu-gb.mybluemix.net/ui/
 
-Recording video link is :
+Recording video link is :  https://drive.google.com/file/d/19sQVGItG_VyDEIr1b11j0elq3ksyOjpp/view?usp=sharing
