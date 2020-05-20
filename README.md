@@ -20,6 +20,6 @@ integrated with a web UI. This UI can then be used to connect with Watson assist
 
 In Watson Discovery I have used the ecobee3_userguide.
 
-Node-Red Dashboard link after deploying : 
+Node-Red Dashboard link after deploying : https://node-red-bdlzo.eu-gb.mybluemix.net/ui/
 
 Youtube video link is :
